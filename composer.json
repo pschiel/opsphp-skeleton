@@ -1,16 +1,8 @@
 {
 	"repositories": [
 		{
-			"type": "package",
-			"package": {
-				"name": "opsphp/core",
-				"version": "master",
-				"source": {
-					"url": "https://github.com/pschiel/opsphp-core",
-					"type": "git",
-					"reference": "origin/master"
-				}
-			}
+			"type": "git",
+			"url": "https://github.com/pschiel/opsphp-core.git"
 		}
 	],
 	"require": {
